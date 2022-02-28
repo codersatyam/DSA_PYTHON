@@ -1,4 +1,4 @@
-def lengthOfLongestSubstring(self, s: str) -> int:
+def lengthOfLongestSubstring(s):
         hash_map=dict()
         window_start=0
         max_length=0
